@@ -1,6 +1,6 @@
 <div align=center>
   
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Taeyoon's&nbsp;Hub&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Taeyoon's&nbsp;GitHub&fontSize=40&animation=twinkling)
 
 
 
