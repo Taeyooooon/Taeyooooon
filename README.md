@@ -35,8 +35,9 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeyooooon)](https://github.com/Taeyooooon/github-readme-stats)
-
-<!-- ![Taeyooooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyooooon&show_icons=true&count_private=true&theme=transparent) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeyooooon&layout=compact)](https://github.com/Taeyooooon/github-readme-stats)
+</br>
+</br>
+![Taeyooooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyooooon&show_icons=true&count_private=true&theme=transparent)
 
 </div>
