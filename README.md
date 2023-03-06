@@ -41,7 +41,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeyooooon&layout=compact)](https://github.com/Taeyooooon/github-readme-stats)
 </br>
 </br>
-![Taeyooooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyooooon&show_icons=true&count_private=true&theme=transparent)
+<!-- ![Taeyooooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyooooon&show_icons=true&count_private=true&theme=transparent) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaeyooooon&count_bg=%233DB4C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HI&edge_flat=false)](https://hits.seeyoufarm.com)
 
