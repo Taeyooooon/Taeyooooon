@@ -14,12 +14,60 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> -->
 </div>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,tailwind,redux,nextjs)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,tailwind,redux,nextjs)](https://skillicons.dev) -->
+  
+ <table>
+   <tr>
+      <td align="center"  width="95">
+          <img src="https://skillicons.dev/icons?i=html" width="63" height="63" alt="HTML" />
+          <br>HTML
+      </td>
+      <td align="center" width="95">
+          <img src="https://skillicons.dev/icons?i=css" width="63" height="63" alt="css" />
+          <br>CSS
+      </td>
+      <td align="center" width="95">
+          <img src="https://skillicons.dev/icons?i=styledcomponents" width="63" height="63" alt="styledcomponents" />
+          <br>SC
+      </td>
+      <td align="center"  width="95">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="63" height="63" alt="tailwind" />      
+          <br>TailwindCSS
+      </td>
+      <td align="center" width="95">
+          <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="63" height="63" alt="sass" />
+          <br>Sass
+      </td>
+   </tr>
+   
+   <tr>
+      <td align="center" width="95">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="63" height="63" />
+          <br>JavaScript
+      </td>
+      <td align="center" width="95">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="63" height="63" />
+          <br>TypeScript
+      </td>
+      <td align="center" width="95">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="63" height="63" />
+          <br>React
+      </td>
+      <td align="center" width="95">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="63" height="63" alt="nextjs" />
+          <br>NextJS
+      </td>
+      <td align="center" width="95">
+          <img src="https://skillicons.dev/icons?i=redux" width="63" height="63" alt="redux" />
+          <br>RTK
+      </td>
+   </tr>
+</table>
 
 
-|JavaScript|TypeScript|React|Sass|
+<!-- |JavaScript|TypeScript|React|Sass|
 | :--: | :--: | :--: | :--: |
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="63" height="63" /></div> |
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="63" height="63" /></div> | -->
 
 
 <!--   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" />
