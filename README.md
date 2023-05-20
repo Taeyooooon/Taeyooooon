@@ -1,45 +1,12 @@
-<div align=center>
+<div align="center">
   
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=🐣Taeyoon's&nbsp;GitHub&fontSize=40&animation=twinkling)
+<!-- ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=🐣Taeyoon's&nbsp;GitHub&fontSize=40&animation=twinkling) -->
 
 
 
-## :books: STUDYING
-<div>
-<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Styled%20Component-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> -->
-</div>
-  
-<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,tailwind,redux,nextjs)](https://skillicons.dev) -->
-  
+## :books: Tech Stack
+
  <table>
-   <tr>
-      <td align="center"  width="95">
-          <img src="https://skillicons.dev/icons?i=html" width="63" height="63" alt="HTML" />
-          <br>HTML
-      </td>
-      <td align="center" width="95">
-          <img src="https://skillicons.dev/icons?i=css" width="63" height="63" alt="css" />
-          <br>CSS
-      </td>
-      <td align="center" width="95">
-          <img src="https://skillicons.dev/icons?i=styledcomponents" width="63" height="63" alt="styledcomponents" />
-          <br>SC
-      </td>
-      <td align="center"  width="95">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="63" height="63" alt="tailwind" />      
-          <br>TailwindCSS
-      </td>
-      <td align="center" width="95">
-          <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="63" height="63" alt="sass" />
-          <br>Sass
-      </td>
-   </tr>
-   
    <tr>
       <td align="center" width="95">
           <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="63" height="63" />
@@ -58,42 +25,36 @@
           <br>NextJS
       </td>
       <td align="center" width="95">
+          <img src="https://skillicons.dev/icons?i=styledcomponents" width="63" height="63" alt="styledcomponents" />
+          <br>SC
+      </td>
+      <td align="center"  width="95">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="63" height="63" alt="tailwind" />      
+          <br>TailwindCSS
+      </td>
+      <td align="center" width="95">
+          <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="63" height="63" alt="sass" />
+          <br>Sass
+      </td>
+      <td align="center" width="95">
           <img src="https://skillicons.dev/icons?i=redux" width="63" height="63" alt="redux" />
           <br>RTK
       </td>
    </tr>
 </table>
 
+## :wrench: Tool
+ <div>
+    <img src="https://skillicons.dev/icons?i=vscode" width="63" height="63" alt="vscode" title="VSCode" />
+    <img src="https://skillicons.dev/icons?i=git" width="63" height="63" alt="git" title="Git" />
+    <img src="https://skillicons.dev/icons?i=github" width="63" height="63" alt="github" title="Github" />
+    <img src="https://skillicons.dev/icons?i=githubactions" width="63" height="63" alt="githubactions" title="Github-Actions" />
+    <img src="https://skillicons.dev/icons?i=aws" width="63" height="63" alt="aws" title="AWS" />
+  </div>
 
-<!-- |JavaScript|TypeScript|React|Sass|
-| :--: | :--: | :--: | :--: |
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="63" height="63" /></div> | -->
-
-
-<!--   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="63" height="63" /> -->
-
-
-<!-- <img src="https://img.shields.io/badge/styled--components-8D5078?style=flat&logo=styled-components&logoColor=white"/> -->
-
-
-## :wrench: TOOL
-<!-- <div>
-  <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
-</div> -->
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,githubactions,aws)](https://skillicons.dev)
-
-</br>
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeyooooon&layout=compact)](https://github.com/Taeyooooon/github-readme-stats)
-</br>
 </br>
 <!-- ![Taeyooooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyooooon&show_icons=true&count_private=true&theme=transparent) -->
 
