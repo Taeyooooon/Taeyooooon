@@ -36,10 +36,6 @@
           <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="63" height="63" alt="sass" />
           <br>Sass
       </td>
-      <td align="center" width="95">
-          <img src="https://skillicons.dev/icons?i=redux" width="63" height="63" alt="redux" />
-          <br>RTK
-      </td>
    </tr>
 </table>
 
