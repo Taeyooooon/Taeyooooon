@@ -9,10 +9,6 @@
  <table>
    <tr>
       <td align="center" width="95">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="63" height="63" />
-          <br>JavaScript
-      </td>
-      <td align="center" width="95">
           <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="63" height="63" />
           <br>TypeScript
       </td>
